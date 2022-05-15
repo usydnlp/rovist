@@ -2,7 +2,7 @@
 
 This repository contains code for paper [Learning Robust Metrics for Visual Storytelling](https://arxiv.org/pdf/2205.03774.pdf).
 
-### <div align="center"> Wang, E.\*, Han, C.\*, Long, & Poon, J. (2022). <br> [Learning Robust Metrics for Visual Storytelling](https://arxiv.org/pdf/2205.03774.pdf) <br> Findings of NAACL 2022 </div>
+### <div align="center"> Wang, E.\*, Han, C.\*, & Poon, J. (2022). <br> [Learning Robust Metrics for Visual Storytelling](https://arxiv.org/pdf/2205.03774.pdf) <br> Findings of NAACL 2022 </div>
 
 ## 1. Introduction
 
