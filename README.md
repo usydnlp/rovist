@@ -25,10 +25,19 @@ To calculate your own scores, follow the instructions in the Demo notebook files
 ## 4. Reference
 If you use this code for your research, please cite:
 ```
-@article{wang2022rovist,
-  title={RoViST: Learning Robust Metrics for Visual Storytelling},
-  author={Wang, Eileen and Han, Caren and Poon, Josiah},
-  journal={arXiv preprint arXiv:2205.03774},
-  year={2022}
+@inproceedings{wang-etal-2022-rovist,
+    title = "{R}o{V}i{ST}: Learning Robust Metrics for Visual Storytelling",
+    author = "Wang, Eileen  and
+      Han, Caren  and
+      Poon, Josiah",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2022",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-naacl.206",
+    doi = "10.18653/v1/2022.findings-naacl.206",
+    pages = "2691--2702",
 }
+
 ```
